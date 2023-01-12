@@ -21,7 +21,7 @@
 <br>
 <br>
 
-![status](https://github-readme-stats.vercel.app/api?username=MarceloNogueiraGit&theme=blue-green)
+
 
 
 
