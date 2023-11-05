@@ -1,5 +1,9 @@
 # 💫 About Me:
-Estudando WebDev, HTML, CSS e JavaScript, gosto muito dessa ideia de poder criar do zero algo com uma pagina na web, isso tudo usando linhas de código, pensando e tomando cuidado com semântica,  pensando em tamanhos de telas disponiveis, para de adaptar corretamente em qualquer dispositivo, pensar no layout, e tentar ajustar e refinar com JavaScript, isso é muito legal, mas sou só alguém que gosta disso tudo e estudo esporadicamente.
+Estudando WebDev, HTML, CSS e JavaScript, gosto muito dessa ideia de poder criar do zero,<br/> 
+algo com uma pagina na web, isso tudo usando linhas de código, pensando e tomando cuidado com semântica,<br/> 
+pensando em tamanhos de telas disponiveis, para de adaptar corretamente em qualquer dispositivo,<br/> 
+pensar no layout, e tentar ajustar e refinar com JavaScript, isso é muito legal,<br/> 
+mas sou só alguém que gosta disso tudo e estudo esporadicamente.
 
 
 ## 🌐 Socials:
